@@ -15,12 +15,13 @@ Please cite our paper if you find it useful. <br>
 <img src="coverPic.jpg" width="720">
 </p>
 
+<!--
 ### Method
 
 <p align="center">
 <img src="Overview.jpg" width="720">
 </p>
-
+-->
 ### Acknowledgements
 
 This codebase is heavily borrowed from (https://github.com/divyakraman/HawkI2024).

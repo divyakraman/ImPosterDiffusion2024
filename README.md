@@ -1,4 +1,4 @@
-Paper: [**ImPoster: Text and Frequency Guidance for Subject Driven Action Personalization using Diffusion Models**]([[https://arxiv.org/abs/2311.15478](https://arxiv.org/abs/2409.15650)](https://arxiv.org/abs/2409.15650)) (COLING 2025)
+Paper: [**ImPoster: Text and Frequency Guidance for Subject Driven Action Personalization using Diffusion Models**](https://arxiv.org/abs/2409.15650) (COLING 2025)
 
 Please cite our paper if you find it useful. <br>
 
@@ -18,7 +18,7 @@ Please cite our paper if you find it useful. <br>
 ### Method
 
 <p align="center">
-<img src="overview.png" width="720">
+<img src="Overview.jpg" width="720">
 </p>
 
 ### Acknowledgements
